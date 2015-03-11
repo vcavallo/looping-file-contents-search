@@ -1,0 +1,2 @@
+search_directory/file2.txt
+search_directory/file4.txt
