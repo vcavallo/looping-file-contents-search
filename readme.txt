@@ -11,8 +11,8 @@ results to a file.
 
 before you can run any of these .sh scripts, you'll need to do this on it:
 
-`$ chmod a+x loop_output_to_file.sh`
-or
+`$ chmod a+x loop_output_to_file.sh` 
+or 
 `$ chmod a+x loop.sh`
 
 that makes it executable. to run the script, do:
